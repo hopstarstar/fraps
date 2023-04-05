@@ -1,0 +1,68 @@
+body {
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(166,45,70,1) 100%);
+}
+.title {
+    background-color: rgba(133, 128, 128, 0.2);
+    margin: auto;
+    width: 350px;
+    height: 150px;
+    text-align: center;
+    font-size: larger;
+    color: white;
+    height: 100px;
+    text-align: center;
+    border: 1px black solid;
+}
+p {
+    text-align: center;
+}
+.top {
+    background-color: rgba(133, 128, 128, 0.2);
+    margin: auto;
+    text-align: center;
+    border: 1px black solid;
+    color: white;
+    width: 350px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    height: 10em;
+    
+    
+   
+    
+}
+li:hover{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    width: 350px;
+    height: 40px;
+     color: white;
+     background-color: rgba(85, 80, 80, 0.2);
+     justify-content: center;
+     margin: auto;
+
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    justify-content: center;
+    width: auto;
+    
+    
+}
+li{
+    text-decoration: none;
+    margin: auto;
+    list-style-type: none;
+    text-align: center;
+     color: white;
+     background-color: rgba(133, 128, 128, 0.2);
+     display: block;
+     cursor: pointer;
+     align-items: center;
+}
